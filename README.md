@@ -34,7 +34,8 @@ The dashboard consists of multiple pages focusing on different aspects of Amazon
 
 ## 🎥 Demo Video
 📽️ **Check out the dashboard in action:**  
-[![Watch the Demo](1.png)](./Demovideo.mp4)
+![Dashboard in Action](./Demovideo.gif)
+
 
 ## 📂 Dataset
 The dataset used for this project contains:
