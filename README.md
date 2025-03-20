@@ -3,6 +3,8 @@
 ## 🚀 Project Overview
 This project analyzes **Amazon's sales data** using **Tableau** to uncover key business insights, including revenue trends, shipping efficiency, regional profitability, and product performance.
 
+[Check out the Intractive Dashboard](https://public.tableau.com/app/profile/abishek.karnan.rajesh/viz/AmazonDashboard_17424419454180/WelcomePage?publish=yes)
+
 ## 🔥 Key Insights
 - **Total Revenue**: $2.37B 💰
 - **Total Profit**: $788.14M
@@ -35,7 +37,6 @@ The dashboard consists of multiple pages focusing on different aspects of Amazon
 ## 🎥 Demo Video
 📽️ **Check out the dashboard in action:**  
 ![Dashboard in Action](./Demovideo.gif)
-
 
 ## 📂 Dataset
 The dataset used for this project contains:
